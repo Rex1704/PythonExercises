@@ -1,4 +1,4 @@
-"""I here done some pickling and unpickling of iris data taken from uci ml website.
+"""Here i done some pickling and unpickling of iris data taken from uci ml website.
  yes the most popular one "irisdata"  """
 
 def pickledata(listdata):
